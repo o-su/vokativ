@@ -1,2 +1,5 @@
 circle.yml
 tsconfig.json
+test/
+.eslintrc
+.eslintignore
